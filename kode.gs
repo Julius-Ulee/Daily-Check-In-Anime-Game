@@ -4,13 +4,10 @@ const genshin = false
 const honkai_star_rail = true
 const honkai_3 = false
 
-const discord_notify = false
+const discord_notify = false //Set the discord_notify variable to true if you want to receive notifications.
 const myDiscordID = "xxxxxxxxxxxxxxxxxxxxxxxxxx"
 const myDiscordName = "xxxxxxxxxx"
 const discordWebhook = "https://discord.com/api/webhooks/xxxxxxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-
-/** Original by https://github.com/canaria3406/hoyolab-auto-sign**/
-/** Modified by Areha **/
 
 function main(){
 
