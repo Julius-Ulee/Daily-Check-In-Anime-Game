@@ -1,6 +1,6 @@
 const token = "ltoken=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx; ltuid=xxxxxxxx;"
 
-const genshin = false //not working again
+const genshin = false //not working
 const honkai_star_rail = true
 const honkai_3 = false
 
