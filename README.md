@@ -37,4 +37,4 @@ Step 6: Run the code.
   </table>
 
   ## Credits
-  > make sure to credit me!
+  > Make sure to credit me!
